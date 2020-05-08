@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 dev
 master
-
-=======
 dev111223
 master
->>>>>>> master
+
